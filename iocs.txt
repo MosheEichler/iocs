@@ -1,1 +1,1 @@
-*.bobsnet.co.uk/
+*.bobsnet1.co.uk/
