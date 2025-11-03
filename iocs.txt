@@ -1,2 +1,2 @@
-http://*.bobsnet2.co.uk/
-https://*.bobsnet2.co.uk/
+//*.bobsnet2.co.uk/
+//*.bobsnet2.co.uk/
